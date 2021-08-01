@@ -32,12 +32,17 @@ button {
   border-radius: 50%;
 }
 
+.habits {
+  padding: 0.5em;
+  padding-top: 2em;
+}
+
 .add-input {
   font-size: 2rem;
 }
 
 .add-input {
-  margin-left: 0.2em;
+  margin-right: 0.2em;
 }
 
 .add-button {
